@@ -1,16 +1,7 @@
 # wear_ambient
 
-A new Flutter project.
+El modo ambiente es un modo de ahorro de energia en el cual se cambia de color
 
-## Getting Started
+![AmbientMode](https://github.com/chucho5280/AmbientMode/assets/96545330/86dd9f81-6faf-4091-91a8-991c65450242)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![AmbientModeBlack](https://github.com/chucho5280/AmbientMode/assets/96545330/29d40981-6a16-4785-a0f5-c9ce9bb8c28e)
